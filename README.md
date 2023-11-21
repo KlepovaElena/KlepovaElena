@@ -49,6 +49,6 @@
 
 ### Моя статистика:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egolikov&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=egolikov&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egolikov&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KlepovaElena&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KlepovaElena&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KlepovaElena&theme=default)
