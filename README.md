@@ -37,9 +37,9 @@
 
 ## Мои проекты:
 
-### :fire: Проект по автоматизации UI тестирования сайта Бауцентр
+### :fire: Проект по автоматизации UI тестирования сайта Todoist
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egolikov&repo=baucenter-product-autotests)](https://github.com/egolikov/baucenter-product-autotests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlepovaElena&repo=QA.GURU_Todoist_Project)](https://github.com/KlepovaElena/QA.GURU_Todoist_Project)
 
 ### :fire: Проект по автомазиации API тестирования сервиса reqres.in
 
