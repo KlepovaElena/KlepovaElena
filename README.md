@@ -41,13 +41,11 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlepovaElena&repo=QA.GURU_Todoist_Project)](https://github.com/KlepovaElena/QA.GURU_Todoist_Project)
 
-### :fire: Проект по автомазиации API тестирования сервиса reqres.in
+### :fire: Проект по автомазиации API тестирования сервиса Petstore
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egolikov&repo=reqresin-product-autotests)](https://github.com/egolikov/reqresin-product-autotests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlepovaElena&repo=QA.GURU_Petstore_Project)](https://github.com/KlepovaElena/QA.GURU_Petstore_Project)
 
 ### :fire: Проект по автоматизации Mobile тестирования приложения Wikipedia
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egolikov&repo=wikipedia-product-autotests)](https://github.com/egolikov/wikipedia-product-autotests)
 
 ### Моя статистика:
 
