@@ -45,9 +45,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlepovaElena&repo=QA.GURU_Petstore_Project)](https://github.com/KlepovaElena/QA.GURU_Petstore_Project)
 
-### :fire: Проект по автомазиации API тестирования сервиса Petstore
+### :fire: Проект по мобильной автомазиации UI тестирования Wikipedia
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlepovaElena&repo=QA.GURU_Petstore_Project)](https://github.com/KlepovaElena/QA.GURU_Petstore_Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlepovaElena&repo=QA.GURU_Mobile_Project)](https://github.com/KlepovaElena/QA.GURU_Mobile_Project)
 
 ### Моя статистика:
 
