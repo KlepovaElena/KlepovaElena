@@ -1,4 +1,4 @@
-### :frog: Всем привет! Меня зовут Елена :frog:
+### Всем привет! Меня зовут Елена
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+Engineer)](https://git.io/typing-svg)
 
@@ -40,6 +40,10 @@
 ### :fire: Проект по автоматизации UI тестирования сайта Todoist
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlepovaElena&repo=QA.GURU_Todoist_Project)](https://github.com/KlepovaElena/QA.GURU_Todoist_Project)
+
+### :fire: Проект по автомазиации API тестирования сервиса Petstore
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlepovaElena&repo=QA.GURU_Petstore_Project)](https://github.com/KlepovaElena/QA.GURU_Petstore_Project)
 
 ### :fire: Проект по автомазиации API тестирования сервиса Petstore
 
